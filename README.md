@@ -1,2 +1,2 @@
-# Installation_HBlink_HBmonitor
+# How to install HBlink and HBmonitor from my repository
 In progress!
